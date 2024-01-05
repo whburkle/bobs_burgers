@@ -3,4 +3,4 @@ Burger Of The Day: A fun RIA project using the JavaScript Fetch API to reference
 
 <a href="http://www.williamburkle.com/dl/bobs_burgers/" target="_blank">Check it out!</a>
 
-<a href="https://codepen.io/whburkle/pen/mdoeOpv" target="_blank">Also available on CodePen.</a>
+<a href="https://codepen.io/whburkle/pen/mdoeOpv" target="_blank">Also available on CodePen</a>
